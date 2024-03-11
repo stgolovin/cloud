@@ -1,0 +1,5 @@
+OAUTH_APP_ID = 'e4908afcd5564f26a678e5cc136f4bb4'
+OAUTH_APP_SECRET = '4850823a15e945e79d81570c7fd53877'
+REDIRECT_URI = 'http://127.0.0.1:5055/callback'
+AUTHORIZATION_BASE_URL = 'https://apiproxy.telphin.ru/oauth/authorize'
+TOKEN_URL = 'https://apiproxy.telphin.ru/oauth/token'
